@@ -1,4 +1,4 @@
-Jupyter notebook to play with Titanic competition from Kaggle
+Jupyter notebook to play with Titanic competition from Kaggle to strengthen Data Science skills
 
 # Competition Description
 
